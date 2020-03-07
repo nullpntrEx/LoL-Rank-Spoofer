@@ -1,7 +1,7 @@
 ## LoL-Rank-Exploiter
 
 ### Summary
-Simple tool that changes your rank in your friend list without having to download all kinds of tools and set it up.
+Simple tool that uses a security risk function / exploit in the LCU API changes your rank in your friend list without having to download all kinds of tools and use the legacy client.
 Please refrain from abusing it like scamming people.
 
 NOTE: 
