@@ -36,22 +36,22 @@ SslPolicyErrors errors)
             switch (inputKey.Key)
             {
                 case ConsoleKey.D1:
-                    client.UpdateRanking("Challenger");
+                    client.UpdateRanking("CHALLENGER");
                     break;
                 case ConsoleKey.D2:
-                    client.UpdateRanking("GrandMaster");
+                    client.UpdateRanking("GRANDMASTER");
                     break;
                 case ConsoleKey.D3:
-                    client.UpdateRanking("Master");
+                    client.UpdateRanking("MASTER");
                     break;
                 case ConsoleKey.D4:
-                    client.UpdateRanking("Diamond");
+                    client.UpdateRanking("DIAMOND");
                     break;
                 case ConsoleKey.D5:
-                    client.UpdateRanking("Platinum");
+                    client.UpdateRanking("PLATINUM");
                     break;
                 default:
-                    client.UpdateRanking("Challenger");
+                    client.UpdateRanking("CHALLENGER");
                     break;
             }
             Console.WriteLine("");
