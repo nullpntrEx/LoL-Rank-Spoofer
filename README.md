@@ -38,4 +38,4 @@ YOU DONT NEED THE LEGACY CLIENT FOR THIS. Simply Compile + Run.
 It is possible that your Anti-Virus picks it up as a virus while it's not a virus. Nothing is binded to it + its not obfuscated as its Open-Source.
 https://www.virustotal.com/gui/file/7363ca357c1f950dbf063d2107ab4a7a837ef2a7009ef906ecbc5bae18656888/detection
 ### Support
-The tool comes with no support. If you have questions: nullpntr@protonmail.com.
+The tool comes with no support.
